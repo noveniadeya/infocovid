@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources></resources>
+
+    <!-- Base application thame. -->
+    <style name="AppTheme" parent="Thame.AppCompat.Light.NoActionBar"
+        <!--Customize your thane here. -->
+        <item name="coloPrimary">@color/colorPrimary</item>
+        <item name="coloPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="coloAccent">@color/colorAccent</item>
+    </style>
+
+</resources>
